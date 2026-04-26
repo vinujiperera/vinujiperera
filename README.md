@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinujiperera&label=Profile%20views&color=0e75b6&style=flat" alt="vinujiperera" /> </p>
 
-- 🌱 I’m currently learning *C++ , python , Angular, Node.js*
+- 🌱 I’m currently learning *React , Vue , Figma *
 
 - 👯 I’m looking to collaborate on *entry level web development projects using HTML,CSS and Javascript to sharpen my skills and work with like minded developers.*
 
