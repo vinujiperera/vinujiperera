@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *React , Vue , Figma *
 
-- 👯 I’m looking to collaborate on *entry level web development projects using HTML,CSS and Javascript to sharpen my skills and work with like minded developers.*
+- 👯 I’m looking to collaborate on *entry level full stack  development projects to sharpen my skills and work with like minded developers.*
 
 - 📫 How to reach me *vinujipp821@gmail.com*
 
