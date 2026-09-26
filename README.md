@@ -18,11 +18,4 @@ I am a motivated  Computer Engineering student and sports enthusiast with a stro
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vinujiperera&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vinujiperera&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=vinujiperera&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
